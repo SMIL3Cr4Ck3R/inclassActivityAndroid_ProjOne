@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">projOne</string>
+    <string name="bmi_calulator">BMI Calulator</string>
+    <string name="calculate_bmiBtnTxt">Calculate BMI</string>
+    <string name="maleSwirchTxt">Male ?</string>
+    <string name="insert_your_wieght_here">Insert your wieght here</string>
+    <string name="insert_your_hieght_here">insert your hieght here</string>
 </resources>
